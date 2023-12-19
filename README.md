@@ -3,9 +3,9 @@
 Overview
 This machine learning project aims to predict crime rates in Chicago using the Prophet forecasting tool. By leveraging historical crime data, the model forecasts future crime rates, providing valuable insights for law enforcement and city planning.
 
-Table of Contents
+**Table of Contents**
 
-About the Project
+**About the Project
 
 Data
 
@@ -13,7 +13,7 @@ Installation
 
 Usage
 
-Results
+Results**
 
 About the Project
 
@@ -27,19 +27,15 @@ Installation
 
 Provide instructions on how to install the required dependencies and set up the project environment. This may include Python packages, libraries, or any other tools necessary to run the code successfully.
 
-bash
-Copy code
 
-pip install -r requirements.txt
+**pip install -r requirements.txt**
 
 Usage
 
 Explain how users can run and interact with the project. Include examples of command-line usage, input formats, and any configuration settings. If applicable, provide sample code snippets to demonstrate key functionalities.
 
-bash
-Copy code
 
-python crime_prediction.py
+**python crime_prediction.py**
 
 Results
 
