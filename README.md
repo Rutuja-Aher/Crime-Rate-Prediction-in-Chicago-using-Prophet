@@ -5,15 +5,15 @@ This machine learning project aims to predict crime rates in Chicago using the P
 
 **Table of Contents**
 
-**About the Project
+**About the Project**
 
-Data
+**Data**
 
-Installation
+**Installation**
 
-Usage
+**Usage**
 
-Results**
+**Results**
 
 About the Project
 
