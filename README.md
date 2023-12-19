@@ -1,4 +1,4 @@
-# Crime-Rate-Prediction-in-Chicago-using-
+# Crime-Rate-Prediction-in-Chicago-using-Prophet
 
 Overview
 This machine learning project aims to predict crime rates in Chicago using the Prophet forecasting tool. By leveraging historical crime data, the model forecasts future crime rates, providing valuable insights for law enforcement and city planning.
